@@ -11,6 +11,7 @@ To Run this code you need to have `Python >= 3.9`. Hence, it's recommended to in
 To install Conda, you can follow these steps:
 
 1. Download and install Miniconda or Anaconda from the official site:
+
     a. [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
     b. [Anaconda](https://www.anaconda.com/products/distribution)
 2. Follow the installer’s prompts and restart your terminal.
