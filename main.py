@@ -2,7 +2,9 @@ import csv
 from jobspy import scrape_jobs
 
 jobs = scrape_jobs(
-    site_name=["indeed", "linkedin", "zip_recruiter", "glassdoor", "google"],
+    site_name=["indeed", "linkedin", "zip_recruiter", "glassdoor", "google",
+               "monster", "careerbuilder", "dice", "simplyhired", "flexjobs",
+               "upwork", "freelancer", "remoteco", "weworkremotely", "angellist"],
     search_term="Product Manager",
     google_search_term="product manager jobs since yesterday",
     location="Boston, MA",
